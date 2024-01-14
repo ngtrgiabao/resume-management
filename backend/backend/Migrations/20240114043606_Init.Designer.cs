@@ -12,7 +12,7 @@ using backend.Core.Context;
 namespace backend.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20240113164542_Init")]
+    [Migration("20240114043606_Init")]
     partial class Init
     {
         /// <inheritdoc />
@@ -40,8 +40,9 @@ namespace backend.Migrations
                     b.Property<long>("JobId")
                         .HasColumnType("bigint");
 
-                    b.Property<int>("Phone")
-                        .HasColumnType("int");
+                    b.Property<string>("Phone")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("coverLetter")
                         .IsRequired()
@@ -62,7 +63,6 @@ namespace backend.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("resumeUrl")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<DateTime?>("updatedAt")

@@ -136,3 +136,4 @@ D:\VSCODE-PROJECT\resume-management\backend\backend\obj\Debug\net8.0\backend.gen
 D:\VSCODE-PROJECT\resume-management\backend\backend\obj\Debug\net8.0\ref\backend.dll
 D:\VSCODE-PROJECT\resume-management\backend\backend\bin\Debug\net8.0\AutoMapper.dll
 D:\VSCODE-PROJECT\resume-management\backend\backend\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\VSCODE-PROJECT\resume-management\backend\backend\obj\Debug\net8.0\backend.sourcelink.json
