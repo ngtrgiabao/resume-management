@@ -4,5 +4,5 @@ public enum CompanySizeEnum
 {
     Small,
     Medium,
-    MediumSmall
+    Large
 }
