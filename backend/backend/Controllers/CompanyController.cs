@@ -13,6 +13,7 @@ namespace backend.Controllers
     {
         private ApplicationDbContext _context { get; }
         private IMapper _mapper { get; }
+
         public CompanyController(ApplicationDbContext context, IMapper mapper)
         {
             _context = context;

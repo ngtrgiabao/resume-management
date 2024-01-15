@@ -1,5 +1,4 @@
-﻿
-using AutoMapper;
+﻿using AutoMapper;
 using backend.Core.Context;
 using backend.Core.Dtos.Candidate;
 using backend.Core.Entities;
@@ -32,9 +31,9 @@ namespace backend.Controllers
             {
                 return BadRequest("File is not valid");
             }
-            
+
             string resumeUrl = null;
-            
+
             if (pdfFile != null)
             {
                 resumeUrl = Guid.NewGuid().ToString() + ".pdf";
@@ -59,7 +58,8 @@ namespace backend.Controllers
         [Route("Get")]
         public async Task<ActionResult<IEnumerable<CandidateGetDto>>> GetCandidates()
         {
-            var candidates = await _context.Candidates.Include(c => c.Job).OrderByDescending(candidate => candidate.createdAt ).ToListAsync();
+            var candidates = await _context.Candidates.Include(c => c.Job)
+                .OrderByDescending(candidate => candidate.createdAt).ToListAsync();
             var convertedCandidates = _mapper.Map<IEnumerable<CandidateGetDto>>(candidates);
             return Ok(convertedCandidates);
         }
