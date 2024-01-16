@@ -1,0 +1,12 @@
+﻿version: "3.9"
+services:
+  app:
+    container_name: resume_management_container
+    image: resume_management_image
+    build:
+      context: .
+      dockerfile: Dockerfile
+    restart: always
+    ports:
+      - "5282:5282"
+    command: ["--name", "resume_management_container"]

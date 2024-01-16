@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "pRPdUMAO/qJ0ht5W4s09Q/ynqv62cES45PFU68UlRv0setnRLj+9eDJslmU2oNyeM7GlearBRiRheE585BUAUA==",
+  "dgSpecHash": "jyNnQju7V2w73IkKqbN6e/Ph9dHVtAGq6au/DNy4zxRm4ebZa4tCqfZsAaGUJsBSDJkEeK6W5U5BUqxNwDx5YQ==",
   "success": true,
   "projectFilePath": "D:\\VSCODE-PROJECT\\resume-management\\backend\\backend\\backend.csproj",
   "expectedPackageFiles": [
@@ -48,6 +48,7 @@
     "C:\\Users\\ngtrg\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\ngtrg\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\ngtrg\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
+    "C:\\Users\\ngtrg\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512",
     "C:\\Users\\ngtrg\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\ngtrg\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
     "C:\\Users\\ngtrg\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",

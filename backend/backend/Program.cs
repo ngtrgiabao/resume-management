@@ -1,7 +1,7 @@
-using System.Text.Json.Serialization;
 using backend.Core.AutoMapperConfig;
 using backend.Core.Context;
 using Microsoft.EntityFrameworkCore;
+using System.Text.Json.Serialization;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -17,6 +17,11 @@ builder.Services.AddAutoMapper(typeof(AutoMapperProfile));
 builder.Services.AddControllers().AddJsonOptions(options =>
 {
     options.JsonSerializerOptions.Converters.Add(new JsonStringEnumConverter());
+});
+
+builder.WebHost.ConfigureKestrel(options =>
+{
+    options.ListenAnyIP(5282);  // Listen on all available interfaces on port 5282
 });
 
 builder.Services.AddControllers();
@@ -42,9 +47,7 @@ app.UseCors(options =>
 });
 
 app.UseHttpsRedirection();
-
 app.UseAuthorization();
-
 app.MapControllers();
 
 app.Run();

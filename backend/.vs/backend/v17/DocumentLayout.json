@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\VSCODE-PROJECT\\resume-management\\backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D6FA02DE-2AFC-4E0F-AC5B-C2D70BED1565}|backend\\backend.csproj|d:\\vscode-project\\resume-management\\backend\\backend\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D6FA02DE-2AFC-4E0F-AC5B-C2D70BED1565}|backend\\backend.csproj|solutionrelative:backend\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D6FA02DE-2AFC-4E0F-AC5B-C2D70BED1565}|backend\\backend.csproj|d:\\vscode-project\\resume-management\\backend\\backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{D6FA02DE-2AFC-4E0F-AC5B-C2D70BED1565}|backend\\backend.csproj|solutionrelative:backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FA02DE-2AFC-4E0F-AC5B-C2D70BED1565}|backend\\backend.csproj|d:\\vscode-project\\resume-management\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FA02DE-2AFC-4E0F-AC5B-C2D70BED1565}|backend\\backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FA02DE-2AFC-4E0F-AC5B-C2D70BED1565}|backend\\backend.csproj|d:\\vscode-project\\resume-management\\backend\\backend\\core\\automapperconfig\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FA02DE-2AFC-4E0F-AC5B-C2D70BED1565}|backend\\backend.csproj|solutionrelative:backend\\core\\automapperconfig\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +31,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "backend",
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\VSCODE-PROJECT\\resume-management\\backend\\backend\\Dockerfile",
+              "RelativeDocumentMoniker": "backend\\Dockerfile",
+              "ToolTip": "D:\\VSCODE-PROJECT\\resume-management\\backend\\backend\\Dockerfile",
+              "RelativeToolTip": "backend\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-01-16T07:31:16.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "D:\\VSCODE-PROJECT\\resume-management\\backend\\backend\\Core\\AutoMapperConfig\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "backend\\Core\\AutoMapperConfig\\AutoMapperProfile.cs",
+              "ToolTip": "D:\\VSCODE-PROJECT\\resume-management\\backend\\backend\\Core\\AutoMapperConfig\\AutoMapperProfile.cs",
+              "RelativeToolTip": "backend\\Core\\AutoMapperConfig\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwBUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T05:07:50.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VSCODE-PROJECT\\resume-management\\backend\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\Program.cs",
+              "ToolTip": "D:\\VSCODE-PROJECT\\resume-management\\backend\\backend\\Program.cs",
+              "RelativeToolTip": "backend\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T05:07:05.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "backend.csproj",
               "DocumentMoniker": "D:\\VSCODE-PROJECT\\resume-management\\backend\\backend\\backend.csproj",
               "RelativeDocumentMoniker": "backend\\backend.csproj",
               "ToolTip": "D:\\VSCODE-PROJECT\\resume-management\\backend\\backend\\backend.csproj",
               "RelativeToolTip": "backend\\backend.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-01-13T16:02:00.946Z",
               "EditorCaption": ""

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7aa56dcc-8638-4c3a-b316-7fc0e2437d1a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/backend.metadata.v7.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/backend.metadata.v7.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/backend.projects.v7.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/backend.projects.v7.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/backend/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/backend/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/backend/FileContentIndex/467e2bfc-e3c1-464a-81e0-8d1f68f1ef5e.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/backend/FileContentIndex/a376cb88-3576-473f-9ec2-52b93bcd2601.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/backend/FileContentIndex/d8052cbf-bdef-4775-9e8d-d45a4dce9b93.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/backend/v17/.futdcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/backend/v17/.futdcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/backend/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/backend/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/backend/v17/DocumentLayout.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/backend/v17/DocumentLayout.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/backend.sln.DotSettings.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/backend/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/Properties/launchSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/backend.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/backend/backend.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/backend.csproj.user" beforeDir="false" afterPath="$PROJECT_DIR$/backend/backend.csproj.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/bin/Debug/net8.0/backend.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/bin/Debug/net8.0/backend.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/bin/Debug/net8.0/backend.dll" beforeDir="false" afterPath="$PROJECT_DIR$/backend/bin/Debug/net8.0/backend.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/bin/Debug/net8.0/backend.exe" beforeDir="false" afterPath="$PROJECT_DIR$/backend/bin/Debug/net8.0/backend.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/bin/Debug/net8.0/backend.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/backend/bin/Debug/net8.0/backend.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/backend/obj/Debug/net8.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/obj/Debug/net8.0/backend.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/backend/obj/Debug/net8.0/backend.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/obj/Debug/net8.0/backend.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/backend/obj/Debug/net8.0/backend.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/obj/Debug/net8.0/backend.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/backend/obj/Debug/net8.0/backend.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/obj/Debug/net8.0/backend.dll" beforeDir="false" afterPath="$PROJECT_DIR$/backend/obj/Debug/net8.0/backend.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/obj/Debug/net8.0/backend.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/backend/obj/Debug/net8.0/backend.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/obj/Debug/net8.0/backend.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/obj/Debug/net8.0/backend.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/obj/Debug/net8.0/ref/backend.dll" beforeDir="false" afterPath="$PROJECT_DIR$/backend/obj/Debug/net8.0/ref/backend.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/obj/Debug/net8.0/refint/backend.dll" beforeDir="false" afterPath="$PROJECT_DIR$/backend/obj/Debug/net8.0/refint/backend.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/obj/backend.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/obj/backend.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/obj/backend.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/backend/obj/backend.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/obj/backend.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/backend/obj/backend.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/backend/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/backend/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/backend/obj/rider.project.restore.info" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2b1PTgdwhyOvt1IoQqAeLzA4dqE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/VSCODE-PROJECT/resume-management/frontend",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7aa56dcc-8638-4c3a-b316-7fc0e2437d1a" name="Changes" comment="" />
+      <created>1705379621056</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705379621056</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
